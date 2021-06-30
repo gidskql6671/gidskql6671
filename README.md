@@ -1,7 +1,8 @@
 
+
 ### Hi there 👋
 
-[![velog](https://user-images.githubusercontent.com/23000498/123951764-1b5e5200-d9e0-11eb-99cd-a4840ba607b9.png)](https://velog.io/@gidskql6671)
+[![My_Velog_Blog](https://user-images.githubusercontent.com/23000498/123951940-4d6fb400-d9e0-11eb-867f-15bbcc0be68d.png))](https://velog.io/@gidskql6671)
 
 <!--
 **gidskql6671/gidskql6671** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
