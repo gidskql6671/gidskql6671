@@ -15,7 +15,7 @@
 
 
 <a href="https://velog.io/@gidskql6671"> 
-  <img src="https://img.shields.io/badge/Blog-1aa4e4?style=flat-square&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Dev Blog-1aa4e4?style=flat-square&logoColor=white"/></a>
 </a> 
 <a href="https://velog.io/@gidskql6671/about"> 
   <img src="https://img.shields.io/badge/About Me-389e64?style=flat-square&logoColor=white"/></a>
