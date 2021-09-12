@@ -12,3 +12,7 @@
     </td>
   </tr>
 </table>
+
+<img src="https://img.shields.io/badge/Blog-1aa4e4?style=flat-square&logoColor=white"/></a>&nbsp 
+<a href="https://velog.io/@gidskql6671"> 
+      </a> 
