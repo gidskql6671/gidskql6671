@@ -1,4 +1,4 @@
-<table frame=void border="0"> 
+<table frame=void border="0" bordercolor="blue"> 
   <tr>
     <td valign="top" border="0">
       <a href="https://velog.io/@gidskql6671"> 
