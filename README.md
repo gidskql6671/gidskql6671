@@ -1,5 +1,7 @@
 <!HTML>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gidskql6671&count_private=true&show_icons=true)
+
 - 경북대학교 컴퓨터학부 재학중인 학생입니다.
 - 웹 개발 공부를 즐기고 있으며, 백엔드에 관심이 많습니다.
 - 최근에는 클린 코드와 테스팅에 집중하며 공부를 하고있습니다.
