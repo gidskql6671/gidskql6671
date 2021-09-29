@@ -1,6 +1,7 @@
 <!HTML>
 
 [![gidskql6671's GitHub stats](https://github-readme-stats.vercel.app/api?username=gidskql6671&count_private=true&show_icons=true&theme=dracula)](https://github.com/gidskql6671)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gidskql6671)](https://solved.ac/gidskql6671/)
 
 - 경북대학교 컴퓨터학부 재학중인 학생입니다.
 - 웹 개발 공부를 즐기고 있으며, 백엔드에 관심이 많습니다.
