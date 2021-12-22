@@ -1,7 +1,7 @@
 <!HTML>
 
-[![gidskql6671's GitHub stats](https://github-readme-stats.vercel.app/api?username=gidskql6671&count_private=true&show_icons=true&theme=dracula)](https://github.com/gidskql6671)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gidskql6671)](https://solved.ac/gidskql6671/)
+[![gidskql6671's GitHub stats](https://github-readme-stats.vercel.app/api?username=gidskql6671&count_private=true&show_icons=true&theme=dracula)](https://github.com/gidskql6671)  
+![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=gidskql6671)
 
 - 경북대학교 컴퓨터학부 재학중인 학생입니다.
 - 웹 개발에 흥미를 느끼고 공부하는 중입니다.
