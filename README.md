@@ -4,7 +4,7 @@
 ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=gidskql6671)
 
 - 경북대학교 컴퓨터학부 학생입니다.
-- 현재 카카오 엔터프라이즈에서 인턴으로 일하고 있습니다.
+- 현재 카카오 엔터프라이즈에서 서버 개발자로 일하고 있습니다.
 - 웹 백엔드 개발에 흥미를 느끼고 공부하는 중입니다.
 - 클린 코드에 집중하며 개발을 하고있습니다.
 - 제가 공부하는 내용을 정리하는 블로그입니다. &nbsp;&nbsp;&nbsp; <a href="https://velog.io/@gidskql6671"> 
