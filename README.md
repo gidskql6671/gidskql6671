@@ -7,6 +7,7 @@
 - 현재 카카오 엔터프라이즈에서 서버 개발자로 일하고 있습니다.
 - 웹 백엔드 개발에 흥미를 느끼고 공부하는 중입니다.
 - 클린 코드에 집중하며 개발을 하고있습니다.
+- 코드 개발뿐만 아니라 DevOps에도 관심이 많습니다.
 - 제가 공부하는 내용을 정리하는 블로그입니다. &nbsp;&nbsp;&nbsp; <a href="https://velog.io/@gidskql6671"> 
     <img src="https://img.shields.io/badge/Velog Blog-Dev Blog-1aa4e4?style=flat-square"/></a>
   </a> 
