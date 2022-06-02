@@ -14,3 +14,9 @@
 - 저에 대해 더 알고싶으면 이쪽으로 와주세요 :) &nbsp;&nbsp;&nbsp; <a href="https://velog.io/@gidskql6671/about"> 
     <img src="https://img.shields.io/badge/Velog Profile-About Me-389e64?style=flat-square"/></a>
   </a> 
+
+
+### 최근 활동들
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
