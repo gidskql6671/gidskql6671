@@ -19,7 +19,7 @@
 ### 최근 활동들
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/GDSC-KNU/TIL-Frontend/pull/4) in [GDSC-KNU/TIL-Frontend](https://github.com/GDSC-KNU/TIL-Frontend)
-2. 💪 Opened PR [#4](https://github.com/GDSC-KNU/TIL-Frontend/pull/4) in [GDSC-KNU/TIL-Frontend](https://github.com/GDSC-KNU/TIL-Frontend)
-3. 🎉 Merged PR [#3](https://github.com/GDSC-KNU/TIL-Frontend/pull/3) in [GDSC-KNU/TIL-Frontend](https://github.com/GDSC-KNU/TIL-Frontend)
+1. ❗️ Closed issue [#2](https://github.com/GDSC-KNU/TIL-Backend/issues/2) in [GDSC-KNU/TIL-Backend](https://github.com/GDSC-KNU/TIL-Backend)
+2. 🎉 Merged PR [#4](https://github.com/GDSC-KNU/TIL-Frontend/pull/4) in [GDSC-KNU/TIL-Frontend](https://github.com/GDSC-KNU/TIL-Frontend)
+3. 💪 Opened PR [#4](https://github.com/GDSC-KNU/TIL-Frontend/pull/4) in [GDSC-KNU/TIL-Frontend](https://github.com/GDSC-KNU/TIL-Frontend)
 <!--END_SECTION:activity-->
