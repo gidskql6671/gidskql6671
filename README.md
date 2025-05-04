@@ -3,7 +3,7 @@
 [![gidskql6671's GitHub stats](https://github-readme-stats.vercel.app/api?username=gidskql6671&count_private=true&show_icons=true&theme=dracula)](https://github.com/gidskql6671)  
 [![gidskql6671's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=gidskql6671)](https://solved.ac/profile/gidskql6671)
 
-- 경북대학교 컴퓨터학부의 15대 부학생회장을 맡고 있습니다.
+- 경북대학교 컴퓨터학부의 15대 부학생회장을 맡았습니다.
 - GDSC KNU 3기의 Lead를 맡았습니다.
 - 카카오 엔터프라이즈에서 서버 개발자로 재직했으며, 현재 네이버에서 새로운 여정을 시작했습니다.
 - 남들과 함께 성장하는 것을 즐기는 웹 백엔드 개발자입니다.
